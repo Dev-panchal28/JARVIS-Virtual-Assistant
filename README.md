@@ -1,7 +1,5 @@
 # Jarvis AI 🤖
 
-![Jarvis Banner](images/banner.png)  <!-- Optional main banner image -->
-
 ## Description
 Jarvis is an intelligent virtual assistant built using Python that automates everyday tasks and responds to voice or text commands. Inspired by the fictional AI from Iron Man, Jarvis integrates multiple functionalities, including:
 
